@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/116360866/203375309-8de44f4d-ac1b-41ba
 
 
 
------- Npm/npx e yarns instalados-----------
+------ NPM/NPX e Yarns instalados-----------
 
 npm install react-native-vector-icons --save
 
