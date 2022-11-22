@@ -1,9 +1,10 @@
 # AppBolaDaCopa
 
 
-Em cilma da copa decidi fazer um app em React-Native, que mostra os placares dos jogos 'v.1 '
+Em cilma da copa decidi fazer um app em React-Native, que mostra os placares dos jogos 'v.1 '.
 
-para v.2 quero colocar tela de login e cadastro, deixar o codigo mais limpo e dar funções nas subtelas.
+
+Para v.2 quero colocar tela de login e cadastro, deixar o codigo mais limpo e dar funções nas subtelas.
 
 
 
