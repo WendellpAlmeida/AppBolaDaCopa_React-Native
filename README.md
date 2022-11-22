@@ -6,7 +6,10 @@ Em cilma da copa decidi fazer um app em React-Native, que mostra os placares dos
 para v.2 quero colocar tela de login e cadastro, deixar o codigo mais limpo e dar funções nas subtelas.
 
 
-https://user-images.githubusercontent.com/116360866/203375309-8de44f4d-ac1b-41ba-aa00-b50be3971f98.mp4
+
+https://user-images.githubusercontent.com/116360866/203378271-b7d52bdb-9bf8-4d34-a805-b3777ac94a3e.mp4
+
+
 
 
 
