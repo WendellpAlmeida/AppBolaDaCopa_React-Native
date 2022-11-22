@@ -20,4 +20,29 @@ https://user-images.githubusercontent.com/116360866/203375309-8de44f4d-ac1b-41ba
 
 
 
+------ Npm/npx e yarns instalados-----------
+
+npm install react-native-vector-icons --save
+
+npx expo install react-native-svg 
+
+npx expo install react-native-svg-transformer 
+
+npm install @react-navigation/native
+
+npm install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
+npm i react-native-snap-carousel@4.0.0-beta.6
+
+yarn add react-native-reanimated
+
+npm install @react-navigation/drawer
+
+yarn add @react-navigation/bottom-tabs
+
+
+
+
 
